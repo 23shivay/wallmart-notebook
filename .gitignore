@@ -1,0 +1,22 @@
+
+---
+
+## ✅ 2. `.gitignore`
+Ignore these files/folders in Git:
+
+```gitignore
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
